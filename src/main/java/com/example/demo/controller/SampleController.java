@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SampleController {
 	@GetMapping("/get")
 	public String sample() {
-		return "はじめてのSpring4";
+		return "はじめてのSpring10";
 	}
 
 }
